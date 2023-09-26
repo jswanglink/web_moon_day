@@ -6,7 +6,7 @@
 露从今夜白，月是故乡明！中秋将至，团圆之时近。中秋将至，陈词为大家带来 **定制中秋贺卡**。值此佳节，让我们通过贺卡传递温馨祝福，庆祝团圆，寄托思念。
 
 ### 预览
-**[github项目地址（欢迎⭐）](https://github.com/xiaoli1999/moon-card)**
+**[github项目地址（欢迎⭐）](https://github.com/jswanglink/web_moon_day)**
 
 ### 效果
 ![预览](./preview.png)
