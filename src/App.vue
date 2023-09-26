@@ -59,7 +59,7 @@
         <div class="stats">
             <p>访问人数:<span id="busuanzi_value_site_uv"></span></p>
             <p>访问总量:<span id="busuanzi_value_site_pv"></span></p>
-            <a class="github" href="https://github.com/xiaoli1999/moon-card" target="_blank">
+            <a class="github" href="https://jswanglink.github.io/web_moon_day" target="_blank">
                 <img src="./assets/img/github.png" alt="github">
                 <span>github</span>
             </a>
@@ -73,7 +73,7 @@
         <img class="poster-img" :src="cardUrl" alt="">
         <div class="poster-desc">
             <span>长按识别右侧二维码，定制中秋贺卡！</span>
-            <img src="https://cdn.xiaoli.vip/project/moon-card/code.png" alt="">
+            <img src="./assets/img/code.png" alt="">
         </div>
     </div>
 
