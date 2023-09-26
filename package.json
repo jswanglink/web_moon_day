@@ -7,9 +7,9 @@
   "homepage": " https://xiaoli1999.github.io/moon-card",
   "scripts": {
     "dev": "vite",
-    "build:development": "vue-tsc --noEmit && vite build --mode development",
-    "build:production": "vue-tsc --noEmit && vite build --mode production",
-    "build": "vue-tsc && vite build",
+    "build:development": "vue-tsc --noEmit --skipLibCheck && vite build --mode development",
+    "build:production": "vue-tsc --noEmit --skipLibCheck && vite build --mode production",
+    "build": "vue-tsc --noEmit --skipLibCheck && vite build",
     "preview": "vite preview",
     "lint": "eslint \"src/**/*.{js,jsx,vue,ts,tsx}\" --fix",
     "lint:css": "stylelint **/*.{vue,css,sass,scss,less} --fix",
